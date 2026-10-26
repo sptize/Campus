@@ -1,0 +1,18 @@
+:root {
+  /* Paleta tomada de la captura de Bitácora Dev (ajustable globalmente desde aquí) */
+  --sage: #a8d4b9;
+  --sage-deep: #507f69;
+  --sage-ink: #2f5a45;
+  --bg: #fdfcf8;
+  --card: #e3f3e9;
+  --border: #b4d8c1;
+  --text: #292929;
+  --text-soft: #5c615e;
+  --white: #ffffff;
+  --warn-bg: #f7ecc9; --warn-ink: #66510f;
+  --bad-bg: #f6dcd6; --bad-ink: #7a2e22;
+  --radius: 16px;
+  --font-serif: 'Source Serif 4', 'Noto Serif', Georgia, 'Times New Roman', serif;
+  --font-sans: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --safe-b: env(safe-area-inset-bottom, 0px);
+}
